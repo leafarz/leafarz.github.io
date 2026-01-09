@@ -31,19 +31,6 @@ layout: compress
               {{ content }}
             {% endif %}
           </main>
-
-          <!-- panel -->
-          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
-            <div class="access">
-              {% include_cached update-list.html lang=lang %}
-              {% include_cached trending-tags.html lang=lang %}
-            </div>
-
-            {% for _include in layout.panel_includes %}
-              {% assign _include_path = _include | append: '.html' %}
-              {% include {{ _include_path }} lang=lang %}
-            {% endfor %}
-          </aside>
         </div>
 
         <div class="row">
@@ -57,8 +44,6 @@ layout: compress
             {% include_cached footer.html lang=lang %}
           </div>
         </div>
-
-        {% include_cached search-results.html lang=lang %}
       </div>
 
       <aside aria-label="Scroll to Top">
@@ -80,7 +65,5 @@ layout: compress
       {% assign _include_path = _include | append: '.html' %}
       {% include {{ _include_path }} %}
     {% endfor %}
-
-    {% include_cached search-loader.html lang=lang %}
   </body>
 </html>

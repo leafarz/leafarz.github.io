@@ -233,9 +233,10 @@ main {
   text-align: center;
   border-radius: 0.5rem;
   border: 1px solid var(--btn-border-color);
-  padding: 0 0.4rem;
+  padding: 0.1rem 0.5rem;
   color: var(--text-muted-color);
   line-height: 1.3rem;
+  margin: 0.1rem 0;
 
   &:not(:last-child) {
     margin-right: 0.2rem;

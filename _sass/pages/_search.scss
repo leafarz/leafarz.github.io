@@ -128,13 +128,13 @@ search {
 }
 
 /* 'Cancel' link */
-#search-cancel {
-  color: var(--link-color);
-  display: none;
-  white-space: nowrap;
+// #search-cancel {
+//   color: var(--link-color);
+//   display: none;
+//   white-space: nowrap;
 
-  @extend %cursor-pointer;
-}
+//   @extend %cursor-pointer;
+// }
 
 #search-input {
   background: center;

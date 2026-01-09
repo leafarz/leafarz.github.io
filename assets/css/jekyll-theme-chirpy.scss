@@ -9,3 +9,12 @@
 ';
 
 /* append your custom style below */
+.shimmer::before{
+  background:none;
+}
+
+.tag-container{
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+}

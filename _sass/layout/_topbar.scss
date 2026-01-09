@@ -63,9 +63,10 @@
   font-weight: 600;
   font-family: sans-serif;
   color: var(--topbar-text-color);
-  text-align: center;
-  width: 70%;
   word-break: keep-all;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 
   @include bp.lt(bp.get(lg)) {
     display: block;
