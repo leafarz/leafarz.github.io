@@ -9,12 +9,23 @@
 ';
 
 /* append your custom style below */
-.shimmer::before{
+.shimmer::before {
   background:none;
 }
 
-.tag-container{
+.tag-container {
   display: inline-flex;
   align-items: center;
   flex-wrap: wrap;
+}
+
+.col-header {
+  font-size: 1.25rem; 
+}
+
+.caption {
+  color: var(--text-muted-color);
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9rem;
 }
