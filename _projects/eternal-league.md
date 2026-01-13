@@ -34,13 +34,15 @@ Website: <a href="https://www.eternalleague.com/" target="_blank" rel="noopener 
 
 
 <h1>Contributions</h1>
+
 - [Blockchain And Backend](#blockchain-and-backend)
 - [Gameplay Features](#gameplay-features)
     - [Campaign](#campaign)
+    - [Fog of War](#fog-of-war)
     - [Package Drop](#package-drop)
     - [Skill Tree](#skill-tree)
-    - [Fog of War](#fog-of-war)
-    - [UI](#ui)
+    - [Summon Allies](#summon-allies)
+    - [UI And Bug Fixes](#ui-and-bug-fixes)
 
 
 ## Blockchain And Backend
