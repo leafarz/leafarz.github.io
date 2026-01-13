@@ -2,8 +2,6 @@
 title: Phobos
 description: Story driven isometric action RPG built in Unreal Engine 5. The game is still in early development.
 order: 1
-image:
-  path: /assets/media/projects/phobos/phobos-concept.jpg
 ---
 
 <figure>
