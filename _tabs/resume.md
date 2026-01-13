@@ -59,23 +59,23 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
     <a href="https://www.novacore.tech/" target="_blank" rel="noopener noreferrer">Novastack Inc.</a>
   </span>
   <span style="float:right;">
-    <font size="3">Mar 2024 to Current</font>
+    <span class="co-sublabel">Mar 2024 to Current</span>
   </span>
   <br>
-  <font size="3">Game Developer</font>
+  <span class="co-sublabel">Game Developer</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">UE5</font>
-    <font size="2" class="post-tag btn-outline-primary">C++</font>
-    <font size="2" class="post-tag btn-outline-primary">Animation</font>
-    <font size="2" class="post-tag btn-outline-primary">Gameplay Ability System / GAS</font>
-    <font size="2" class="post-tag btn-outline-primary">Multiplayer</font>
-    <font size="2" class="post-tag btn-outline-primary">Git</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">UE5</span>
+    <span class="post-tag btn-outline-primary co-tag">C++</span>
+    <span class="post-tag btn-outline-primary co-tag">Animation</span>
+    <span class="post-tag btn-outline-primary co-tag">Gameplay Ability System / GAS</span>
+    <span class="post-tag btn-outline-primary co-tag">Multiplayer</span>
+    <span class="post-tag btn-outline-primary co-tag">Git</span>
   </div>
 </h2>
 
-- <div class="tag-container"><font size="4">NovacoreX&nbsp;</font><font size="2" class="post-tag btn-outline-primary">PC</font></div>
+- <div class="tag-container"><span class="co-project">NovacoreX&nbsp;</span><span class="post-tag btn-outline-primary co-tag">PC</span></div>
   - Develop the animation system for the multiplayer game
   - Contribute to bug fixes and building of gameplay mechanics
 
@@ -85,29 +85,29 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
     <a href="https://www.eternalsquares.com/" target="_blank" rel="noopener noreferrer">Eternal Squares</a>
   </span>
   <span style="float:right;">
-    <font size="3">May 2025 to Sept 2025</font>
+    <span class="co-sublabel">May 2025 to Sept 2025</span>
   </span>
   <br>
-  <font size="3">Game Developer</font>
+  <span class="co-sublabel">Game Developer</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">UE5</font>
-    <font size="2" class="post-tag btn-outline-primary">C++</font>
-    <font size="2" class="post-tag btn-outline-primary">Common UI</font>
-    <font size="2" class="post-tag btn-outline-primary">Gameplay Ability System / GAS</font>
-    <font size="2" class="post-tag btn-outline-primary">Multiplayer</font>
-    <font size="2" class="post-tag btn-outline-primary">Perforce</font>
-    <font size="2" class="post-tag btn-outline-primary">UGS</font>
-    <font size="2" class="post-tag btn-outline-primary">ImmutableX</font>
-    <font size="2" class="post-tag btn-outline-primary">Blockchain</font>
-    <font size="2" class="post-tag btn-outline-primary">Typescript</font>
-    <font size="2" class="post-tag btn-outline-primary">AWS</font>
-    <font size="2" class="post-tag btn-outline-primary">GCP</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">UE5</span>
+    <span class="post-tag btn-outline-primary co-tag">C++</span>
+    <span class="post-tag btn-outline-primary co-tag">Common UI</span>
+    <span class="post-tag btn-outline-primary co-tag">Gameplay Ability System / GAS</span>
+    <span class="post-tag btn-outline-primary co-tag">Multiplayer</span>
+    <span class="post-tag btn-outline-primary co-tag">Perforce</span>
+    <span class="post-tag btn-outline-primary co-tag">UGS</span>
+    <span class="post-tag btn-outline-primary co-tag">ImmutableX</span>
+    <span class="post-tag btn-outline-primary co-tag">Blockchain</span>
+    <span class="post-tag btn-outline-primary co-tag">Typescript</span>
+    <span class="post-tag btn-outline-primary co-tag">AWS</span>
+    <span class="post-tag btn-outline-primary co-tag">GCP</span>
   </div>
 </h2>
 
-- <div class="tag-container"><font size="4">Eternal League&nbsp;</font><font size="2" class="post-tag btn-outline-primary">PC</font></div>
+- <div class="tag-container"><span class="co-project">Eternal League&nbsp;</span><span class="post-tag btn-outline-primary co-tag">PC</span></div>
   - Work on a project in a team of 2 developers.
   - Integrate blockchain technology using Immutable X and work on bug fixes. 
   -  Implement and deploy backend game apis, blockchain functionalities and frontend shop.
@@ -121,24 +121,24 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
     <a href="https://www.mon.co/" target="_blank" rel="noopener noreferrer">Mon Co. (Formely LiquidX Studio)</a>
   </span>
   <span style="float:right;">
-    <font size="3">Aug 2024 to Apr 2025</font>
+    <span class="co-sublabel">Aug 2024 to Apr 2025</span>
   </span>
   <br>
-  <font size="3">Game Developer</font>
+  <span class="co-sublabel">Game Developer</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">UE5</font>
-    <font size="2" class="post-tag btn-outline-primary">C++</font>
-    <font size="2" class="post-tag btn-outline-primary">Common UI</font>
-    <font size="2" class="post-tag btn-outline-primary">Gameplay Ability System / GAS</font>
-    <font size="2" class="post-tag btn-outline-primary">Multiplayer</font>
-    <font size="2" class="post-tag btn-outline-primary">Perforce</font>
-    <font size="2" class="post-tag btn-outline-primary">UGS</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">UE5</span>
+    <span class="post-tag btn-outline-primary co-tag">C++</span>
+    <span class="post-tag btn-outline-primary co-tag">Common UI</span>
+    <span class="post-tag btn-outline-primary co-tag">Gameplay Ability System / GAS</span>
+    <span class="post-tag btn-outline-primary co-tag">Multiplayer</span>
+    <span class="post-tag btn-outline-primary co-tag">Perforce</span>
+    <span class="post-tag btn-outline-primary co-tag">UGS</span>
   </div>
 </h2>
 
-- <div class="tag-container"><font size="4">Eternal League&nbsp;</font><font size="2" class="post-tag btn-outline-primary">PC</font><font size="2" class="post-tag btn-outline-primary">Android</font></div>
+- <div class="tag-container"><span class="co-project">Eternal League&nbsp;</span><span class="post-tag btn-outline-primary co-tag">PC</span><span class="post-tag btn-outline-primary co-tag">Android</span></div>
   - Worked on a project in a team of developers, artists, vfx, designers, etc.
   - Implement, optimize and maintain game mechanics, UI, tools in UE5 and maintain documentations.
   - Implemented gameplay mechanics - fog of war, skill tree, authentication, campaign progression, tutorial, game modifiers, game consumables, etc. 
@@ -149,23 +149,23 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
     <a href="https://touchcast.com/" target="_blank" rel="noopener noreferrer">Touchcast Inc.</a>
   </span>
   <span style="float:right;">
-    <font size="3">Jun 2022 to Aug 2024</font>
+    <span class="co-sublabel">Jun 2022 to Aug 2024</span>
   </span>
   <br>
-  <font size="3">Lead Software Developer</font>
+  <span class="co-sublabel">Lead Software Developer</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">UE5</font>
-    <font size="2" class="post-tag btn-outline-primary">UE4</font>
-    <font size="2" class="post-tag btn-outline-primary">C++</font>
-    <font size="2" class="post-tag btn-outline-primary">C#</font>
-    <font size="2" class="post-tag btn-outline-primary">Python</font>
-    <font size="2" class="post-tag btn-outline-primary">Jenkins</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">UE5</span>
+    <span class="post-tag btn-outline-primary co-tag">UE4</span>
+    <span class="post-tag btn-outline-primary co-tag">C++</span>
+    <span class="post-tag btn-outline-primary co-tag">C#</span>
+    <span class="post-tag btn-outline-primary co-tag">Python</span>
+    <span class="post-tag btn-outline-primary co-tag">Jenkins</span>
   </div>
 </h2>
 
-- <div class="tag-container"><font size="4">MaaS Studio&nbsp;</font><font size="2" class="post-tag btn-outline-primary">PC</font></div>
+- <div class="tag-container"><span class="co-project">MaaS Studio&nbsp;</span><span class="post-tag btn-outline-primary co-tag">PC</span></div>
   - Additional responsibilities: Lead a team of software engineers, design code architectures, and plan technical requirements. 
 
 
@@ -174,23 +174,23 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
     <a href="https://touchcast.com/" target="_blank" rel="noopener noreferrer">Touchcast Inc.</a>
   </span>
   <span style="float:right;">
-    <font size="3">Mar 2021 to Jun 2022</font>
+    <span class="co-sublabel">Mar 2021 to Jun 2022</span>
   </span>
   <br>
-  <font size="3">Senior Unreal Engine Developer</font>
+  <span class="co-sublabel">Senior Unreal Engine Developer</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">UE5</font>
-    <font size="2" class="post-tag btn-outline-primary">UE4</font>
-    <font size="2" class="post-tag btn-outline-primary">C++</font>
-    <font size="2" class="post-tag btn-outline-primary">C#</font>
-    <font size="2" class="post-tag btn-outline-primary">Python</font>
-    <font size="2" class="post-tag btn-outline-primary">Jenkins</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">UE5</span>
+    <span class="post-tag btn-outline-primary co-tag">UE4</span>
+    <span class="post-tag btn-outline-primary co-tag">C++</span>
+    <span class="post-tag btn-outline-primary co-tag">C#</span>
+    <span class="post-tag btn-outline-primary co-tag">Python</span>
+    <span class="post-tag btn-outline-primary co-tag">Jenkins</span>
   </div>
 </h2>
 
-- <div class="tag-container"><font size="4">MaaS Studio&nbsp;</font><font size="2" class="post-tag btn-outline-primary">PC</font></div>
+- <div class="tag-container"><span class="co-project">MaaS Studio&nbsp;</span><span class="post-tag btn-outline-primary co-tag">PC</span></div>
   - Implement features, Widgets / UI, materials, editor tools and APIs in UE4 and UE5. 
   - Developed the system for downloading of environments and loading at runtime. 
   - Developed the build pipeline using Jenkins, C# and Python. 
@@ -202,17 +202,17 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
     <a href="https://ecam.com/" target="_blank" rel="noopener noreferrer">ECAM (Formerly Stealth Monitoring)</a>
   </span>
   <span style="float:right;">
-    <font size="3">Nov 2019 to Apr 2021</font>
+    <span class="co-sublabel">Nov 2019 to Apr 2021</span>
   </span>
   <br>
-  <font size="3">.NET Developer</font>
+  <span class="co-sublabel">.NET Developer</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">.NET Core</font>
-    <font size="2" class="post-tag btn-outline-primary">.NET Framework</font>
-    <font size="2" class="post-tag btn-outline-primary">C#</font>
-    <font size="2" class="post-tag btn-outline-primary">Azure</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">.NET Core</span>
+    <span class="post-tag btn-outline-primary co-tag">.NET Framework</span>
+    <span class="post-tag btn-outline-primary co-tag">C#</span>
+    <span class="post-tag btn-outline-primary co-tag">Azure</span>
   </div>
 </h2>
 
@@ -225,23 +225,23 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
     <a href="https://secret6.com/" target="_blank" rel="noopener noreferrer">The Studio of Secret 6 Inc.</a>
   </span>
   <span style="float:right;">
-    <font size="3">Aug 2017 to Nov 2019</font>
+    <span class="co-sublabel">Aug 2017 to Nov 2019</span>
   </span>
   <br>
-  <font size="3">Senior Game Developer</font>
+  <span class="co-sublabel">Senior Game Developer</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">UE4</font>
-    <font size="2" class="post-tag btn-outline-primary">Unity</font>
-    <font size="2" class="post-tag btn-outline-primary">Javascript</font>
-    <font size="2" class="post-tag btn-outline-primary">three.js</font>
-    <font size="2" class="post-tag btn-outline-primary">Firebase</font>
-    <font size="2" class="post-tag btn-outline-primary">Phaser</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">UE4</span>
+    <span class="post-tag btn-outline-primary co-tag">Unity</span>
+    <span class="post-tag btn-outline-primary co-tag">Javascript</span>
+    <span class="post-tag btn-outline-primary co-tag">three.js</span>
+    <span class="post-tag btn-outline-primary co-tag">Firebase</span>
+    <span class="post-tag btn-outline-primary co-tag">Phaser</span>
   </div>
 </h2>
 
-- <div class="tag-container"><font size="4">MediEvil Remake for&nbsp;</font><font size="2" class="post-tag btn-outline-primary">UE4</font><font size="2" class="post-tag btn-outline-primary">PS4</font></div>
+- <div class="tag-container"><span class="co-project">MediEvil Remake &nbsp;</span><span class="post-tag btn-outline-primary co-tag">UE4</span><span class="post-tag btn-outline-primary co-tag">PS4</span></div>
   - Joined mid development using UE4 with a team of 3 programmers. 
   - Dash mechanic in CharacterMovement 
   - Auto-walk to waypoint interaction 
@@ -249,18 +249,18 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   - Optimization of physics, transparencies and animation culling. 
   - Link: <a href="https://www.playstation.com/en-us/games/medievil/" target="_blank" rel="noopener noreferrer">https://www.playstation.com/en-us/games/medievil/</a>
 
-- <div class="tag-container"><font size="4">Giant Cop for&nbsp;</font><font size="2" class="post-tag btn-outline-primary">Unity</font><font size="2" class="post-tag btn-outline-primary">PS4 VR</font></div>
+- <div class="tag-container"><span class="co-project">Giant Cop for&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Unity</span><span class="post-tag btn-outline-primary co-tag">PS4 VR</span></div>
   - Worked on optimizations for using Unity with a team of 3 programmers 
   - Worked on animation culling, LODs and frame rate prioritization of objects 
   - Code refactoring and spreading of the Update function timings. 
   - Link: <a href="https://store.steampowered.com/app/451080/Giant_Cop_Justice_Above_All/" target="_blank" rel="noopener noreferrer">https://store.steampowered.com/app/451080/Giant_Cop_Justice_Above_All/</a>
 
-- <div class="tag-container"><font size="4">Poker game&nbsp;</font><font size="2" class="post-tag btn-outline-primary">three.js</font><font size="2" class="post-tag btn-outline-primary">AltspaceVR</font></div>
+- <div class="tag-container"><span class="co-project">Poker game&nbsp;</span><span class="post-tag btn-outline-primary co-tag">three.js</span><span class="post-tag btn-outline-primary co-tag">AltspaceVR</span></div>
   - Developed and shipped a game with a team of 2 programmers 
   - Used three.js library and Firebase for network gameplay 
   - I implemented the custom Firebase library which was used for multiple AltspaceVR games that use network features. 
 
-- <div class="tag-container"><font size="4">Adventure Time: Blind Finned & Bugs Bunny: Carrot Crisis&nbsp;</font><font size="2" class="post-tag btn-outline-primary">Phaser</font></div>
+- <div class="tag-container"><span class="co-project">Adventure Time: Blind Finned & Bugs Bunny: Carrot Crisis&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Phaser</span></div>
   - Developed and shipped using Phaser from the ground up. 
   - Link 1: <a href="https://www.cartoonnetwork.co.uk/games/adventure-time-blind-finned" target="_blank" rel="noopener noreferrer">https://www.cartoonnetwork.co.uk/games/adventure-time-blind-finned</a>
   - Link 2: <a href="https://www.cartoonnetworkasia.com/games/looney-tunes-cartoons-carrot-crisis/play" target="_blank" rel="noopener noreferrer">https://www.cartoonnetworkasia.com/games/looney-tunes-cartoons-carrot-crisis/play</a>
@@ -271,20 +271,21 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
     <a href="https://otherocean.com/" target="_blank" rel="noopener noreferrer">Other Ocean Interactive</a>
   </span>
   <span style="float:right;">
-    <font size="3">Feb 2017 to Jun 2017</font>
+    <span class="co-sublabel">Feb 2017 to Jun 2017</span>
   </span>
   <br>
-  <font size="3">Game Developer</font>
+  <span class="co-sublabel">Game Developer</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">Unity</font>
-    <font size="2" class="post-tag btn-outline-primary">C#</font>
-    <font size="2" class="post-tag btn-outline-primary">Elixir</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">Unity</span>
+    <span class="post-tag btn-outline-primary co-tag">Unity</span>
+    <span class="post-tag btn-outline-primary co-tag">C#</span>
+    <span class="post-tag btn-outline-primary co-tag">Elixir</span>
   </div>
 </h2>
 
-- <div class="tag-container"><font size="4">Reload: The Z-Team&nbsp;</font><font size="2" class="post-tag btn-outline-primary">Android</font><font size="2" class="post-tag btn-outline-primary">iOS</font></div>
+- <div class="tag-container"><span class="co-project">Reload: The Z-Team&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Android</span><span class="post-tag btn-outline-primary co-tag">iOS</span></div>
   - Game optimization and bug fixes
   - Implement backend APIs using Elixir
 
@@ -294,57 +295,57 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
     <a href="https://secret6.com/" target="_blank" rel="noopener noreferrer">The Studio of Secret 6 Inc.</a>
   </span>
   <span style="float:right;">
-    <font size="3">Apr 2014 to Jan 2017</font>
+    <span class="co-sublabel">Apr 2014 to Jan 2017</span>
   </span>
   <br>
-  <font size="3">Game Developer</font>
+  <span class="co-sublabel">Game Developer</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">Unity</font>
-    <font size="2" class="post-tag btn-outline-primary">C#</font>
-    <font size="2" class="post-tag btn-outline-primary">Javascript</font>
-    <font size="2" class="post-tag btn-outline-primary">three.js</font>
-    <font size="2" class="post-tag btn-outline-primary">Firebase</font>
-    <font size="2" class="post-tag btn-outline-primary">Cocos-2d</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">Unity</span>
+    <span class="post-tag btn-outline-primary co-tag">C#</span>
+    <span class="post-tag btn-outline-primary co-tag">Javascript</span>
+    <span class="post-tag btn-outline-primary co-tag">three.js</span>
+    <span class="post-tag btn-outline-primary co-tag">Firebase</span>
+    <span class="post-tag btn-outline-primary co-tag">Cocos-2d</span>
   </div>
 </h2>
 
-- <div class="tag-container"><font size="4">Love Letter, Boss Monsters and Dungeons & Dragons&nbsp;</font><font size="2" class="post-tag btn-outline-primary">three.js</font><font size="2" class="post-tag btn-outline-primary">AltspaceVR</font></div>
+- <div class="tag-container"><span class="co-project">Love Letter, Boss Monsters and Dungeons & Dragons&nbsp;</span><span class="post-tag btn-outline-primary co-tag">three.js</span><span class="post-tag btn-outline-primary co-tag">AltspaceVR</span></div>
   - Develop and ship using three.js from the ground up with a team of 2 programmers. 
   - I worked on the gameplay logic and the resource management. 
   - Develop our network library using Firebase. 
 
-- <div class="tag-container"><font size="4">YuGiOh Duel Generation&nbsp;</font><font size="2" class="post-tag btn-outline-primary">Unity</font><font size="2" class="post-tag btn-outline-primary">Android</font><font size="2" class="post-tag btn-outline-primary">iOS</font></div>
+- <div class="tag-container"><span class="co-project">YuGiOh Duel Generation&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Unity</span><span class="post-tag btn-outline-primary co-tag">Android</span><span class="post-tag btn-outline-primary co-tag">iOS</span></div>
   - Developed and did bug fixes.
 
-- <div class="tag-container"><font size="4">Broadsword: Age of Chivalry v2&nbsp;</font><font size="2" class="post-tag btn-outline-primary">Unity</font><font size="2" class="post-tag btn-outline-primary">Android</font><font size="2" class="post-tag btn-outline-primary">iOS</font></div>
+- <div class="tag-container"><span class="co-project">Broadsword: Age of Chivalry v2&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Unity</span><span class="post-tag btn-outline-primary co-tag">Android</span><span class="post-tag btn-outline-primary co-tag">iOS</span></div>
   - Developed and did bug fixes. 
 
-- <div class="tag-container"><font size="4">Star Wars Science: The Force™ Trainer II Hologram Experience&nbsp;</font><font size="2" class="post-tag btn-outline-primary">Unity</font><font size="2" class="post-tag btn-outline-primary">Android</font><font size="2" class="post-tag btn-outline-primary">iOS</font></div>
+- <div class="tag-container"><span class="co-project">Star Wars Science: The Force™ Trainer II Hologram Experience&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Unity</span><span class="post-tag btn-outline-primary co-tag">Android</span><span class="post-tag btn-outline-primary co-tag">iOS</span></div>
   - Developed and shipped using Unity 
   - I worked on the lighting vfx and the lightsaber assembly via math computations. 
 
-- <div class="tag-container"><font size="4">Tinted&nbsp;</font><font size="2" class="post-tag btn-outline-primary">Unity</font><font size="2" class="post-tag btn-outline-primary">Android</font><font size="2" class="post-tag btn-outline-primary">iOS</font></div>
+- <div class="tag-container"><span class="co-project">Tinted&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Unity</span><span class="post-tag btn-outline-primary co-tag">Android</span><span class="post-tag btn-outline-primary co-tag">iOS</span></div>
   - I worked on the match-3 system from the ground up. Implemented the effect of different paint drops mixing in the background.
 
 
 <h2>
   <span style="float:left;">KLAB Cyscorpions, Inc.</span>
   <span style="float:right;">
-    <font size="3">Apr 2013 to May 2013</font>
+    <span class="co-sublabel">Apr 2013 to May 2013</span>
   </span>
   <br>
-  <font size="3">Software Engineer Intern</font>
+  <span class="co-sublabel">Software Engineer Intern</span>
   <br>
   <div class="tag-container mt-1 mb-1 me-3">
-    <font size="3">Tech:&nbsp;</font>
-    <font size="2" class="post-tag btn-outline-primary">Unity</font>
-    <font size="2" class="post-tag btn-outline-primary">C#</font>
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">Unity</span>
+    <span class="post-tag btn-outline-primary co-tag">C#</span>
   </div>
 </h2>
 
-- <div class="tag-container"><font size="4">Grav&nbsp;</font><font size="2" class="post-tag btn-outline-primary">Android</font><font size="2" class="post-tag btn-outline-primary">iOS</font></div>
+- <div class="tag-container"><span class="co-project">Grav&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Android</span><span class="post-tag btn-outline-primary co-tag">iOS</span></div>
   - Develop Grav in collaboration with KLAB.
   - Game is from our game jam we submitted around 2012.
 
@@ -356,10 +357,10 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
 <h2>
   <span style="float:left;">University of the Philippines Diliman</span>
   <span style="float:right;">
-    <font size="3">Jun 2010 to Apr 2014</font>
+    <span class="co-sublabel">Jun 2010 to Apr 2014</span>
   </span>
   <br>
-  <font size="3">BS in Computer Science </font>
+  <span class="co-sublabel">BS in Computer Science </span>
 </h2>
 
 - Other activities:

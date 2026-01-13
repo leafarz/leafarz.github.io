@@ -3,7 +3,28 @@ title: Phobos
 description: Story driven isometric action RPG built in Unreal Engine 5. The game is still in early development.
 order: 1
 ---
+<div class="project-info-container">
+  <div class="project-info-grid">
+    <div class="project-info-item">
+      <div class="text-muted">Role</div>
+      Co-founder
+    </div>
+    <div class="project-info-item">
+      <div class="text-muted">Game Engine</div>
+      Unreal Engine
+    </div>
+    <div class="project-info-item">
+      <div class="text-muted">Programmers</div>
+      2
+    </div>
+    <div class="project-info-item">
+      <div class="text-muted">Joined</div>
+      Start of project
+    </div>
+  </div>
+</div>
 
+<h1>Info</h1>
 <figure>
   <img src="/assets/media/projects/phobos/phobos-concept.jpg" alt="">
   <div class="caption">Phobos Concept Art</div>
@@ -37,7 +58,7 @@ The game started as a game jam entry many years ago that didn't even reach devel
 ## Project Setup And Workflow
 I started the project and set the repo up along with documentation on our Wiki. These are documentations about setting the project up, systems and conventions that devs should follow for a more maintainable project.
 
-The game is primarily developed in C++. We implement in Blueprints for child classes and for a few other cases.
+The game is built in Unreal Engine primarily in C++. We implement in Blueprints for child classes and for a few other cases.
 
 The project is structured with our core game framework built on top of Unreal's Gameplay Ability System, logging utility and base classes and functionalities for our Character. In addition, I added the game loop system which manages the flow of the game from initialization to game and to end game. Currently, our end game is just game over as the game is still being developed. The team continued building from there.
 
