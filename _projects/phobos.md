@@ -21,8 +21,8 @@ The game started as a game jam entry many years ago that didn't even reach devel
 
 - [Project Setup And Workflow](#project-setup-and-workflow)
 - [AI](#ai)
-  - [Boss AI](#boss-ai)
-  - [Enemy AI](#enemy-ai)
+    - [Boss AI](#boss-ai)
+    - [Enemy AI](#enemy-ai)
 - [Dialog System](#dialog-system)
 - [Interaction System](#interaction-system)
 - [Inventory, Equipment And Loadout Systems](#inventory-equipment-and-loadout-systems)
@@ -48,11 +48,11 @@ The project is structured with our core game framework built on top of Unreal's 
 I used Unreal's State Tree for enemy AI behavior and created State Tree tasks like Move To, Play Animation, Move Around Target and Use Ability among others concerning enemy combat. I chose this to learn the new tech and it can also be used for other things beyond enemy behavior. It can run on a normal Actor and doesn't necessarily require a Pawn or AIController. We try to make abilities be used by anyone as much as possible.
 <br>
 <br>
-### Boss AI
+#### Boss AI
 This is a POC for boss AI. The intro sequence also uses State Tree which makes it very convenient.
 <video src="/assets/media/projects/phobos/phobos-ai-boss.webm" width="100%" playsinline controls autoplay muted loop></video>
 <br>
-### Enemy AI
+#### Enemy AI
 Also a POC for enemy AI just so that our level is more playable.
 <div class="row">
   <div class="col-md-6">
@@ -181,7 +181,7 @@ Contains:
 2. Hotbar (bottom-mid)
 3. Loadout (bottom-right)
 4. Stamina bar (orange bar)
-5. dodge roll indicator (yellow dot below the character).
+5. Dodge roll indicator (yellow dot below the character).
 
 <figure>
   <img src="/assets/media/projects/phobos/phobos-hud.jpg" alt="">
