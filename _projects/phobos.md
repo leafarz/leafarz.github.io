@@ -1,6 +1,6 @@
 ---
 title: Phobos
-description: Story driven isometric action RPG built in Unreal Engine 5. The game is still in early development.
+description: Story driven isometric action RPG built in Unreal Engine 5.
 order: 1
 ---
 <div class="project-info-container">
@@ -19,7 +19,7 @@ order: 1
     </div>
     <div class="project-info-item">
       <div class="text-muted">Joined</div>
-      Start of project
+      Start of Development
     </div>
   </div>
 </div>
@@ -31,7 +31,7 @@ order: 1
 </figure>
 
 
-Phobos is a story driven isometric action RPG built in Unreal Engine 5.
+<b>Phobos</b> is a story driven isometric action RPG built in Unreal Engine 5.
 
 The game started as a game jam entry many years ago that didn't even reach development. Recently, part of the group decided to start development. On the programming side, the team consists of only two developers including me.
 
@@ -39,6 +39,7 @@ The game started as a game jam entry many years ago that didn't even reach devel
 <h1>Contributions</h1>
 
 - [Project Setup And Workflow](#project-setup-and-workflow)
+- [Core Framework](#core-framework)
 - [AI](#ai)
     - [Boss AI](#boss-ai)
     - [Enemy AI](#enemy-ai)
@@ -58,9 +59,10 @@ The game started as a game jam entry many years ago that didn't even reach devel
 ## Project Setup And Workflow
 I started the project and set the repo up along with documentation on our Wiki. These are documentations about setting the project up, systems and conventions that devs should follow for a more maintainable project.
 
-The game is built in Unreal Engine primarily in C++. We implement in Blueprints for child classes and for a few other cases.
+The game is built in Unreal Engine primarily in C++. We sparingly implement in Blueprints for child classes and for a few other cases where they are more suitable.
 
-The project is structured with our core game framework built on top of Unreal's Gameplay Ability System, logging utility and base classes and functionalities for our Character. In addition, I added the game loop system which manages the flow of the game from initialization to game and to end game. Currently, our end game is just game over as the game is still being developed. The team continued building from there.
+## Core Framework
+The project is structured with our core game framework built on top of Unreal's Gameplay Ability System, logging utility and base classes and functionalities for our Character. In addition, I added the game loop system which manages the flow of the game from initialization to game and to end game. Currently, our end game is just game over as the game is still being developed.
 
 
 ## AI

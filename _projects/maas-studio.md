@@ -1,6 +1,6 @@
 ---
 title: MaaS Studio
-description: An application to be the producer of your own digital space for an immersive experience 
+description: An application to be the producer of your own digital space for an immersive experience.
 order: 4
 ---
 <div class="project-info-container">
@@ -25,7 +25,7 @@ order: 4
 </div>
 
 <h1>Info</h1>
-MaaS Studio is a project used to convert your environment into an immersive experience stage production.
+<b>MaaS Studio</b> is a project used to convert your environment into an immersive experience stage production.
 
 There are multiple components for as far as the user is concerned:
 1. The plugin used along with your UE project

@@ -64,7 +64,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">Game Developer</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">UE5</span>
     <span class="post-tag btn-outline-primary co-tag">C++</span>
@@ -81,6 +81,32 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
 
 
 <h2>
+  <span style="float:left;">Independent</span>
+  <span style="float:right;">
+    <span class="co-sublabel">May 2025 to Current</span>
+  </span>
+  <br>
+  <span class="co-sublabel">Co-Founder</span>
+  <br>
+  <div class="tag-container me-3">
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">UE5</span>
+    <span class="post-tag btn-outline-primary co-tag">C++</span>
+    <span class="post-tag btn-outline-primary co-tag">Common UI</span>
+    <span class="post-tag btn-outline-primary co-tag">Gameplay Ability System / GAS</span>
+    <span class="post-tag btn-outline-primary co-tag">State Trees</span>
+    <span class="post-tag btn-outline-primary co-tag">VFX</span>
+  </div>
+</h2>
+
+- <div class="tag-container"><span class="co-project">Phobos&nbsp;</span><span class="post-tag btn-outline-primary co-tag">PC</span></div>
+  - Isometric action RPG co-developed with my colleague as an indie project. It is currently in early development.
+  - Developed with UE5.6 and fully utilizing GAS, motion matching, state trees and gameplay camera system
+  - Developed the core game framework, enemy AI, inventory & equipment system, loadouts, skill tree system, UI and VFX using Niagara system.
+  - Link: <a href="/projects/phobos/" target="_blank" rel="noopener noreferrer">Phobos</a>
+
+
+<h2>
   <span style="float:left;">
     <a href="https://www.eternalsquares.com/" target="_blank" rel="noopener noreferrer">Eternal Squares</a>
   </span>
@@ -90,7 +116,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">Game Developer</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">UE5</span>
     <span class="post-tag btn-outline-primary co-tag">C++</span>
@@ -126,7 +152,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">Game Developer</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">UE5</span>
     <span class="post-tag btn-outline-primary co-tag">C++</span>
@@ -154,7 +180,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">Lead Software Developer</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">UE5</span>
     <span class="post-tag btn-outline-primary co-tag">UE4</span>
@@ -179,7 +205,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">Senior Unreal Engine Developer</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">UE5</span>
     <span class="post-tag btn-outline-primary co-tag">UE4</span>
@@ -207,7 +233,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">.NET Developer</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">.NET Core</span>
     <span class="post-tag btn-outline-primary co-tag">.NET Framework</span>
@@ -230,7 +256,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">Senior Game Developer</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">UE4</span>
     <span class="post-tag btn-outline-primary co-tag">Unity</span>
@@ -241,15 +267,15 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   </div>
 </h2>
 
-- <div class="tag-container"><span class="co-project">MediEvil Remake &nbsp;</span><span class="post-tag btn-outline-primary co-tag">UE4</span><span class="post-tag btn-outline-primary co-tag">PS4</span></div>
-  - Joined mid development using UE4 with a team of 3 programmers. 
+- <div class="tag-container"><span class="co-project">MediEvil (2019)&nbsp;</span><span class="post-tag btn-outline-primary co-tag">UE4</span><span class="post-tag btn-outline-primary co-tag">PS4</span></div>
+  - Joined mid development using UE4 with a team of 4 programmers. 
   - Dash mechanic in CharacterMovement 
   - Auto-walk to waypoint interaction 
   - Push and pull mechanics for rotary and multidirectional object interactions 
   - Optimization of physics, transparencies and animation culling. 
   - Link: <a href="https://www.playstation.com/en-us/games/medievil/" target="_blank" rel="noopener noreferrer">https://www.playstation.com/en-us/games/medievil/</a>
 
-- <div class="tag-container"><span class="co-project">Giant Cop for&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Unity</span><span class="post-tag btn-outline-primary co-tag">PS4 VR</span></div>
+- <div class="tag-container"><span class="co-project">Giant Cop: Justice Above All&nbsp;</span><span class="post-tag btn-outline-primary co-tag">Unity</span><span class="post-tag btn-outline-primary co-tag">PS4 VR</span></div>
   - Worked on optimizations for using Unity with a team of 3 programmers 
   - Worked on animation culling, LODs and frame rate prioritization of objects 
   - Code refactoring and spreading of the Update function timings. 
@@ -276,7 +302,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">Game Developer</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">Unity</span>
     <span class="post-tag btn-outline-primary co-tag">Unity</span>
@@ -300,7 +326,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">Game Developer</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">Unity</span>
     <span class="post-tag btn-outline-primary co-tag">C#</span>
@@ -338,7 +364,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   <br>
   <span class="co-sublabel">Software Engineer Intern</span>
   <br>
-  <div class="tag-container mt-1 mb-1 me-3">
+  <div class="tag-container me-3">
     <span class="co-sublabel">Tech:&nbsp;</span>
     <span class="post-tag btn-outline-primary co-tag">Unity</span>
     <span class="post-tag btn-outline-primary co-tag">C#</span>
@@ -349,8 +375,30 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   - Develop Grav in collaboration with KLAB.
   - Game is from our game jam we submitted around 2012.
 
+<br>
+
+
+# Personal Projects
+<h2>
+  <span style="float:left;">UE Sandbox</span>
+</h2>
+<br>
+- Sandbox project for anything programming / Unreal Engine related.
+- Includes a demo inspired from the game The Unfinished Swan.
+- Other examples include utilizing render targets, materials and post processes.
+- Link: <a href="/projects/ue-sandbox/" target="_blank" rel="noopener noreferrer">UE Sandbox</a>
+
+<h2>
+  <span style="float:left;">GG Engine</span>
+</h2>
+<br>
+- Game engine using OpenGL.
+- Includes a demo inspired from the game The Unfinished Swan.
+- No plans of continuing at the moment but this can render models, has lighting, shaders and render textures. The UI library used is ImGUI.
+- Link: <a href="/projects/gg-engine/" target="_blank" rel="noopener noreferrer">GG Engine</a>
 
 <br>
+
 
 # Education
 

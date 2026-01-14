@@ -19,13 +19,27 @@ order: 3
     </div>
     <div class="project-info-item">
       <div class="text-muted">Joined</div>
-      Mid project
+      Mid Development
     </div>
   </div>
 </div>
 
 <h1>Info</h1>
-Eternal League is a sci-fi isometric roguelite where you upgrade your character and become stronger. You play through the campaign or play in endless mode. The game is built with Unreal Engine.
+<iframe src="https://www.youtube.com/embed/y8qqFOUPx4o" frameborder="0" allowfullscreen style="aspect-ratio: 16/9; width:100%; height:100%">
+</iframe>
+
+<br>
+<div class="row">
+  <div class="col-md-6">
+    <p><b>Eternal League</b> is a sci-fi isometric roguelite where you upgrade your character and become stronger. You play through the campaign or play in endless mode. The game is built with Unreal Engine.</p>
+  </div>
+  <div class="col-md-6">
+    <figure>
+      <iframe src="https://www.youtube.com/embed/NkHguVfurd0" frameborder="0" allowfullscreen style="aspect-ratio: 16/9; width:100%; height:100%"></iframe>
+      <div class="caption">Gameplay video by @W3Gamer</div>
+    </figure>
+  </div>
+</div>
 
 <h4>Links</h4>
 Website: <a href="https://www.eternalleague.com/" target="_blank" rel="noopener noreferrer">https://www.eternalleague.com/</a>

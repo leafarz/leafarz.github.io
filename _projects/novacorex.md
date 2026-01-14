@@ -19,13 +19,13 @@ order: 2
     </div>
     <div class="project-info-item">
       <div class="text-muted">Joined</div>
-      Mid project
+      Mid Development
     </div>
   </div>
 </div>
 
 <h1>Info</h1>
-NovacoreX is a competitive arena FPS which aims to bring back nostalgic gameplay with precise mechanics. The game is built with Unreal Engine.
+<b>NovacoreX</b> is a competitive arena FPS which aims to bring back nostalgic gameplay with precise mechanics.
 
 <h4>Links</h4>
 Website: <a href="https://www.novacore.tech/" target="_blank" rel="noopener noreferrer">https://www.novacore.tech/</a>
@@ -36,11 +36,11 @@ Website: <a href="https://www.novacore.tech/" target="_blank" rel="noopener nore
     - [Setup Character and Camera to be True FPS](#setup-character-and-camera-to-be-true-fps)
     - [Integrating Animations](#integrating-animations)
     - [Connect the Animation System to the Gameplay Ability System](#connect-the-animation-system-to-the-gameplay-ability-system)
-    - [Bug Fixes](#bug-fixes)
+- [Bug Fixes](#bug-fixes)
 
 
 ## Animation
-I joined the team mid development and there's already a basic working animation similar to the FPS template of Unreal.
+The project already has a basic working animation similar to the FPS template of Unreal.
 
 
 #### Setup Character and Camera to be True FPS
@@ -57,5 +57,5 @@ I updated the core framework for the animation to utilize GAS and be more scalab
 After the rework, it became easier for us to add new equipment without the need of adding new code. We just create new data assets, add the list of states and animations.
 
 
-#### Bug Fixes
-I still contributed to bug fixes regarding gameplay and replication.
+## Bug Fixes
+I additionally contributed to gameplay and replication bug fixes.
