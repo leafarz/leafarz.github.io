@@ -53,7 +53,7 @@ The project was developed by me. Each feature contains their own levels.
 ## Convolution Kernels
 <div class="row">
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_06.gif">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_06.gif" alt="">
   </div>
   <div class="col-md-6">
     <p>These are a post process materials that use different convolution kernels.</p>
@@ -74,14 +74,14 @@ The project was developed by me. Each feature contains their own levels.
     <p>This is a surface material that uses a gradient noise with 2 cutoff values. One value is for the bright emissive effect and the other one for masking out the surface.</p>
   </div>
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_07.gif">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_07.gif" alt="">
   </div>
 </div>
 
 ## Distance Field
 <div class="row">
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_02.gif">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_02.gif" alt="">
   </div>
   <div class="col-md-6">
     <p>This is a surface material that uses distance fields to check the surroundings. It adds to world position offset if near another object.</p>
@@ -95,14 +95,14 @@ The project was developed by me. Each feature contains their own levels.
     <p>It combines multiple sin and cos functions with varying wavelengths, amplitudes, rates, directions, etc to produce this wavelike motion.</p>
   </div>
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_03.gif">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_03.gif" alt="">
   </div>
 </div>
 
 ## Glass Materials
 <div class="row">
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_10.jpg">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_10.jpg" alt="">
   </div>
   <div class="col-md-6">
     <p>These are surface materials to showcase different glass-like effects.</p>
@@ -116,14 +116,14 @@ The project was developed by me. Each feature contains their own levels.
     <p>This is a surface material that uses the jump flood algorithm using to fill the surrounding areas iteratively up until a certain point. I tested this to try out very thick outlines.</p>
   </div>
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_11.png">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_11.png" alt="">
   </div>
 </div>
 
 ## Paint Tech Demo (Unfinished Swan inspired)
 <div class="row">
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_12.gif">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_12.gif" alt="">
   </div>
   <div class="col-md-6">
     <p>This is a surface material that uses a mask render target to display it over the surface of the object. In this case we just show it as black.</p>
@@ -137,14 +137,14 @@ The project was developed by me. Each feature contains their own levels.
     <p>This is a post process material which aims to experiment on arrays in materials. There are no array nodes in the material editor so what I did here is I put the location into a render target as location (rgb) per pixel and used it as a buffer. I pass that buffer to the material so the material can process the data and display accordingly.</p>
   </div>
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_04.gif">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_04.gif" alt="">
   </div>
 </div>
 
 ## Random Splats
 <div class="row">
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_09.jpg">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_09.jpg" alt="">
   </div>
   <div class="col-md-6">
     <p>This is a surface material that manipulates the UV to display a single texture multiple times.</p>
@@ -159,14 +159,14 @@ The project was developed by me. Each feature contains their own levels.
     <p>The same logic is used: getting the UV where the foot is location and draw a brush texture to the mask. This time the mask is used to offset the floor geometry and also to blend between the snow and soil texture (might be difficult to see) when the offset gets low enough.</p>
   </div>
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_01.gif">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_01.gif" alt="">
   </div>
 </div>
 
 ## Toon / Cel shading
 <div class="row">
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_05.png">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_05.png" alt="">
   </div>
   <div class="col-md-6">
     <p>This is a surface material created to experiment with a toon shading effect. It uses a common implementation which shows flat colors based on bands and with added specular highlight.</p>
@@ -181,7 +181,7 @@ The project was developed by me. Each feature contains their own levels.
     <p>The resulting Z (height) value from sampling is used as a mask. If the world location of the pixel is lower than the Z, it is rendered as wet.</p>
   </div>
   <div class="col-md-6">
-    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_08.gif">
+    <img src="https://media.githubusercontent.com/media/leafarz/resources/master/ueSandbox_08.gif" alt="">
   </div>
 </div>
 

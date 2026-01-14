@@ -26,7 +26,7 @@ order: 100
 
 
 <h1>Info</h1>
-<img src="https://media.githubusercontent.com/media/leafarz/resources/master/gg_01.gif">
+<img src="https://media.githubusercontent.com/media/leafarz/resources/master/gg_01.gif" alt="">
 
 <b>GG Engine</b> is a personal project aimed to learn making a game engine using OpenGL.
 
