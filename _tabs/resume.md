@@ -8,6 +8,7 @@ order: 2
   <a href="#summary">Summary</a> |
   <a href="#skills">Skills</a> |
   <a href="#experience">Experience</a> |
+  <a href="#personal-projects">Personal Projects</a> |
   <a href="#education">Education</a> |
   <a href="/assets/pdf/Formes_Resume.pdf" target="_blank" rel="noopener noreferrer" title="PDF version of my resume / CV">PDF</a>
  </p>
@@ -384,8 +385,8 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
 </h2>
 <br>
 - Sandbox project for anything programming / Unreal Engine related.
-- Includes a demo inspired from the game The Unfinished Swan.
-- Other examples include utilizing render targets, materials and post processes.
+- Examples include utilizing render targets, materials and post processes.
+- Demo inspired from the game The Unfinished Swan.
 - Link: <a href="/projects/ue-sandbox/" target="_blank" rel="noopener noreferrer">UE Sandbox</a>
 
 <h2>
@@ -393,8 +394,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
 </h2>
 <br>
 - Game engine using OpenGL.
-- Includes a demo inspired from the game The Unfinished Swan.
-- No plans of continuing at the moment but this can render models, has lighting, shaders and render textures. The UI library used is ImGUI.
+- Has basic renderer, meshes, shaders and render textures. The UI library used is ImGUI.
 - Link: <a href="/projects/gg-engine/" target="_blank" rel="noopener noreferrer">GG Engine</a>
 
 <br>
@@ -403,7 +403,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
 # Education
 
 <h2>
-  <span style="float:left;">University of the Philippines Diliman</span>
+  <span style="float:left;">University of the Philippines</span>
   <span style="float:right;">
     <span class="co-sublabel">Jun 2010 to Apr 2014</span>
   </span>
