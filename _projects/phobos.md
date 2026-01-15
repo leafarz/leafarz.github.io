@@ -150,7 +150,7 @@ Also a POC for enemy AI just so that our level is more playable.
 <br>
 <figure>
   <video src="/assets/media/projects/phobos/phobos-loadout.webm" width="100%" playsinline controls autoplay muted loop></video>
-  <div class="caption">Showcase of switching swapping loadouts</div>
+  <div class="caption">Showcase of switching loadouts</div>
 </figure>
 
 
@@ -204,10 +204,7 @@ Contains:
 4. Stamina bar (orange bar)
 5. Dodge roll indicator (yellow dot below the character).
 
-<figure>
-  <img src="/assets/media/projects/phobos/phobos-hud.jpg" alt="">
-  <div class="caption">Phobos Concept Art</div>
-</figure>
+<img src="/assets/media/projects/phobos/phobos-hud.jpg" alt="">
 
 
 #### Pause Menu And Controls autoplay muted Menu
