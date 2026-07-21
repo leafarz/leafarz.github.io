@@ -56,32 +56,6 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
 # Experience
 
 <h2>
-  <span style="float:left;">
-    <a href="https://www.novacore.tech/" target="_blank" rel="noopener noreferrer">Novastack Inc.</a>
-  </span>
-  <span style="float:right;">
-    <span class="co-sublabel">Mar 2024 to Current</span>
-  </span>
-  <br>
-  <span class="co-sublabel">Game Developer</span>
-  <br>
-  <div class="tag-container me-3">
-    <span class="co-sublabel">Tech:&nbsp;</span>
-    <span class="post-tag btn-outline-primary co-tag">UE5</span>
-    <span class="post-tag btn-outline-primary co-tag">C++</span>
-    <span class="post-tag btn-outline-primary co-tag">Animation</span>
-    <span class="post-tag btn-outline-primary co-tag">Gameplay Ability System / GAS</span>
-    <span class="post-tag btn-outline-primary co-tag">Multiplayer</span>
-    <span class="post-tag btn-outline-primary co-tag">Git</span>
-  </div>
-</h2>
-
-- <div class="tag-container"><span class="co-project">NovacoreX&nbsp;</span><span class="post-tag btn-outline-primary co-tag">PC</span></div>
-  - Develop the animation system for the multiplayer game
-  - Contribute to bug fixes and building of gameplay mechanics
-
-
-<h2>
   <span style="float:left;">Nightlamp Studios</span>
   <span style="float:right;">
     <span class="co-sublabel">May 2025 to Current</span>
@@ -105,6 +79,32 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
   - Developed with UE5.6 and fully utilizing GAS, motion matching, state trees and gameplay camera system
   - Developed the core game framework, enemy AI, inventory & equipment system, loadouts, skill tree system, UI and VFX using Niagara system.
   - Link: <a href="/projects/phobos/" target="_blank" rel="noopener noreferrer">Phobos</a>
+
+
+<h2>
+  <span style="float:left;">
+    <a href="https://www.novacore.tech/" target="_blank" rel="noopener noreferrer">Novastack Inc.</a>
+  </span>
+  <span style="float:right;">
+    <span class="co-sublabel">Mar 2024 to Current</span>
+  </span>
+  <br>
+  <span class="co-sublabel">Game Developer</span>
+  <br>
+  <div class="tag-container me-3">
+    <span class="co-sublabel">Tech:&nbsp;</span>
+    <span class="post-tag btn-outline-primary co-tag">UE5</span>
+    <span class="post-tag btn-outline-primary co-tag">C++</span>
+    <span class="post-tag btn-outline-primary co-tag">Animation</span>
+    <span class="post-tag btn-outline-primary co-tag">Gameplay Ability System / GAS</span>
+    <span class="post-tag btn-outline-primary co-tag">Multiplayer</span>
+    <span class="post-tag btn-outline-primary co-tag">Git</span>
+  </div>
+</h2>
+
+- <div class="tag-container"><span class="co-project">NovacoreX&nbsp;</span><span class="post-tag btn-outline-primary co-tag">PC</span></div>
+  - Develop the animation system for the multiplayer game
+  - Contribute to bug fixes and building of gameplay mechanics
 
 
 <h2>
