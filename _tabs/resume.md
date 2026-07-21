@@ -82,7 +82,7 @@ I’ve worked across many areas such as game frameworks and systems, AI, UI, inp
 
 
 <h2>
-  <span style="float:left;">Independent</span>
+  <span style="float:left;">Nightlamp Studios</span>
   <span style="float:right;">
     <span class="co-sublabel">May 2025 to Current</span>
   </span>

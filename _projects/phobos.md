@@ -38,6 +38,8 @@ The game started as a game jam entry many years ago that didn't even reach devel
 
 <h1>Contributions</h1>
 
+
+
 - [Project Setup And Workflow](#project-setup-and-workflow)
 - [Core Framework](#core-framework)
 - [AI](#ai)
@@ -54,6 +56,7 @@ The game started as a game jam entry many years ago that didn't even reach devel
 - [VFX](#vfx)
     - [Attack](#attack)
     - [Skills](#skills)
+- [Others](#others)
 
 
 ## Project Setup And Workflow
@@ -294,3 +297,11 @@ We used a plugin initially from fab but I'm gradually replacing it one by one. W
     </figure>
   </div>
 </div>
+
+## Others
+- Audio
+- Camera System
+- Full Gamepad Support
+- Quest System
+- UI
+-   Settings
